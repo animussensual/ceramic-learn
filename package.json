@@ -14,7 +14,11 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@ethersproject/providers": "^5.6.8",
+    "@self.id/react": "^0.3.2",
+    "@self.id/web": "^0.4.2",
     "eslint": "8.19.0",
-    "eslint-config-next": "12.2.2"
+    "eslint-config-next": "12.2.2",
+    "web3modal": "^1.9.8"
   }
 }
